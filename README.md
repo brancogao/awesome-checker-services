@@ -174,6 +174,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 
 | URL | Description | 💳 |
 | --- | ----------- | -- |
+| https://redirect-checker.autocompany.workers.dev | Analyze HTTP redirect chains (301/302/307/308), detect redirect loops, measure performance impact with multiple User-Agents including Googlebot. | Free |
 | https://urlscan.io | Find out what happens when a URL is accessed. | Free |
 
 ## Validation 👌
