@@ -59,6 +59,7 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://www.digwebinterface.com/ | Extensive web interface to dig for doing online DNS / nameserver query. | Free and donations welcome |
 | https://dnscheck.pingdom.com/ | Enter a domain name to check if its DNS servers are configured correctly. | Free |
 | https://dnschecker.org | Check the DNS propagation of domains. | Free |
+| https://dns-propagation-checker.autocompany.workers.dev | Open source DNS propagation checker supporting A/AAAA/CNAME/MX/NS/TXT records with global DNS servers | Free |
 | https://dnsdumpster.com/ | Domain research tool that can discover hosts related to a domain. | Free |
 | https://dnsspy.io/ | Monitor, validate and verify your DNS configurations. | Free and paid plans |
 | https://www.dnsstuff.com/tools | Multiple DNS tools. | Free |
